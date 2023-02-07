@@ -1,2 +1,2 @@
-# COGS-181-Deep-Learning-Research-Implementation
+# COGS 181 Deep Learning Paper & Implementation
 Paper and implementation for my research paper submission Winter 2023
